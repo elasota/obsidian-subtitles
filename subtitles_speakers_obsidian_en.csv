@@ -7,3 +7,28 @@ partygoer2,PARTIER
 partygoer3,PARTIER
 partygoer4,PARTIER
 bchief,BUREAU CHIEF
+vbinfo,INFORMATION VIDBOT
+vbrebel,REBEL CONTROL VIDBOT
+vbhygiene,BUREAU HYGIENE VIDBOT
+vbreception,NARRATOR
+vbbridgerepair,BRIDGE REPAIR VIDBOT
+vbmediation1,LEFT MEDIATION VIDBOT
+vbmediation2,RIGHT MEDIATION VIDBOT
+vboperations,???
+vbtravel,TRAVEL VIDBOT
+vbsources,SOURCES VIDBOT
+vbhints,HINTS VIDBOT
+vbimmediate,IMMEDIATE ACTION VIDBOT
+vbatlas,ATLAS KIOSK
+vbmazegreet,ENTRY VIDBOT
+vbmazelounge,LOUNGE VIDBOT
+vbmazepsych,PSYCHIATRIC ASSESSMENT VIDBOT
+vbmazeear,AUDIOLOGIST VIDBOT
+vbmazeeye,OPTOMETRIST VIDBOT
+vbmazeshred,DOCUMENT DISPOSAL VIDBOT
+vbmazesecurity,SECURITY VIDBOT
+vbmazephoto,PHOTOGRAPHER VIDBOT
+vbmazepersonnel,PERSONNEL VIDBOT
+vbmazepreapprovals,PRE-APPROVALS VIDBOT
+rebelvoice,UNKNOWN VOICE
+rebel,REBEL
